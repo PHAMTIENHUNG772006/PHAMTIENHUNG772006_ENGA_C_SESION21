@@ -3,7 +3,7 @@
 struct SinhVien{
 	int id;
 	int age;
-	int name[50];
+	char name[50];
 };
 int main(){
 	struct SinhVien sv[10];
